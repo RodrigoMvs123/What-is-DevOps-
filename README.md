@@ -2,6 +2,10 @@
 
 https://www.youtube.com/watch?v=0yWAtQ6wYNM
 
+https://raw.githubusercontent.com/RodrigoMvs123/What-is-DevOps-/main/README.md
+
+
+
 Meu Drive / Google Virtual Machine / Sistemas de Informação / Rodrigo Google Drive Folders / Course / Application Interface Programing / Routines / TechWorld with Nana
 
 
